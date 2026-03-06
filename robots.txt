@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anilkrkalsi.github.io/history-100-day-finisher/sitemap.xml
